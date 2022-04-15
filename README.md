@@ -1,0 +1,2 @@
+# PandemicSim
+I collaborated with three friends in the summer of 2019 at Cornell University while taking their computer science class to build a python MVC model which simulates the spread of a pandemic in two countries as well as the response to the pandemic. The simulation is displayed via PyQt6 and users may interact with the interface to influence the outcome of the simulation. I hope to inspire people to comprehend the ethical viewpoints of pandemic response.
